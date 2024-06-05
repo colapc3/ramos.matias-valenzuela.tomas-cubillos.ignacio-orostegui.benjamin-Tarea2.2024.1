@@ -11,7 +11,7 @@ El proyecto está compuesto por los siguientes archivos:
 2. **Item.java**: Define la clase base `Item` y sus subclases `Comida`, `Medicina`, y `Juguete`.
 3. **Inventario.java**: Clase que maneja el inventario de ítems para la mascota.
 4. **config.csv**: Archivo CSV que contiene la configuración inicial del juego, incluyendo el nombre de la mascota y los ítems en el inventario.
-5.**controlador.java**: Archivo que hace la conexion entre la interfaz grafica y codigo.
+5. **controlador.java**: Archivo que hace la conexion entre la interfaz grafica y codigo.
 ## Contenido de config.csv
 
 El archivo `config.csv` tiene la siguiente estructura:
